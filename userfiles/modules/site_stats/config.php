@@ -1,7 +1,7 @@
 <?php
 $config = array();
 $config['name'] = "Site stats";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui_admin'] = false;
 
 $config['ui'] = false;

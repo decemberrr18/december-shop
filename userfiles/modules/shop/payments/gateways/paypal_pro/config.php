@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Paypal Pro";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui'] = false;
 $config['categories'] = "online shop";
 $config['position'] = 111;

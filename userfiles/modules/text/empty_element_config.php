@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Empty Element";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['description'] = "Microweber";
 $config['website'] = "http://microweber.com/";
 $config['help'] = "http://microweber.info/modules/title";

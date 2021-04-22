@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Comments";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui_admin'] = true;
 $config['ui_admin_iframe'] = true;
 $config['ui'] = true;

@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Shipping to address";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui'] = false;
 $config['ui_admin'] = false;
 $config['categories'] = "online shop";

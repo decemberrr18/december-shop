@@ -24,7 +24,7 @@ class Ui
 
     public function __construct()
     {
-        $this->admin_logo_login = modules_url() . 'microweber/api/libs/mw-ui/assets/img/logo.svg';
+        $this->admin_logo_login = modules_url() . 'microweber/api/libs/mw-ui/assets/img/logo.png';
         $this->logo_live_edit = modules_url() . 'microweber/api/libs/mw-ui/assets/img/logo-mobile.svg';
         if (mw_is_installed()) {
             $this->defaults();
@@ -237,7 +237,7 @@ class Ui
         if ($this->disable_powered_by_link != false) {
             return;
         }
-        $link = '<span class="mw-powered-by"><a href="https://microweber.org/" title="Website Builder">Website Builder</a> <span>by</span> <a href="https://microweber.org" target="_blank" title="Microweber CMS">Microweber</a></span>';
+        $link = '<span class="mw-powered-by"><a href="javascript:decemberr18" title="december shop">december shop</a> <span>by</span> <a href="javascript:decemberr18" target="_blank" title="decemberr18">decemberr18</a></span>';
         if ($this->powered_by_link != false) {
             $link = $this->powered_by_link;
         }

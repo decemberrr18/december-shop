@@ -1,7 +1,7 @@
 <?php
 $config = array();
 $config['name'] = "Users";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui'] = '0';
 $config['ui_admin'] = '1';
 $config['is_system'] = true;

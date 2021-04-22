@@ -1,7 +1,7 @@
 <?php
 $config = array();
 $config['name'] = "Backup V2";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 
 $config['categories'] = "admin";
 $config['version'] = 0.3;

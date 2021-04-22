@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Button";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['no_cache'] = false;
 $config['ui'] = true;
 $config['position'] = 7;

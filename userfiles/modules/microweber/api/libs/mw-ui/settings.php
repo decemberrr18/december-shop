@@ -81,8 +81,8 @@
                                         </div>
 
                                         <div class="form-group">
-                                            <label class="control-label">Time zone</label>
-                                            <small class="text-muted d-block mb-2">Set a time zone</small>
+                                            <label class="control-label"><?php _e("Time zone"); ?></label>
+                                            <small class="text-muted d-block mb-2"><?php _e("Set a time zone"); ?></small>
                                             <select class="selectpicker" data-width="100%">
                                                 <option>UTC</option>
                                             </select>

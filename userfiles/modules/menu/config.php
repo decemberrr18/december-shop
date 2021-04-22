@@ -3,7 +3,7 @@
 $config = array();
 $config['name'] = "Menu";
 $config['description'] = _e("Navigation menu for pages and links.", TRUE);
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui'] = true;
 $config['ui_admin'] = true;
 $config['categories'] = "navigation";

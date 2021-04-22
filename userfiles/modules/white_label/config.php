@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "White label";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['categories'] = "advanced";
 $config['position'] = "500";
 $config['version'] = 0.3;

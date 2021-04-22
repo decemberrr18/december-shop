@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Settings";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['ui_admin'] = false;
 $config['ui'] = false;
 $config['is_system'] = true;

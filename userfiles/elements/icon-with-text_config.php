@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Icon with Text";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['description'] = "";
 $config['website'] = "http://microweber.com";
 $config['no_cache'] = true;

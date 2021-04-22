@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Right Image - Left Text";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['description'] = "Simple image with some text description in middle";
 $config['website'] = "http://microweber.com";
 $config['no_cache'] = true;

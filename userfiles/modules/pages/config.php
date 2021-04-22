@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Pages Menu";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['no_cache'] = false;
 $config['ui'] = true;
 $config['categories'] = "navigation";

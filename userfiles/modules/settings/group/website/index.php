@@ -140,7 +140,7 @@
                                     <div class="form-group mb-4">
                                         <label class="control-label"><?php _e("Date Format"); ?></label>
                                         <small class="text-muted d-block mb-2"><?php _e("Choose a date format for your website"); ?></small>
-                                        <?php $date_formats = array("Y-m-d H:i:s", "Y-m-d H:i", "d-m-Y H:i:s", "d-m-Y H:i", "m/d/y", "m/d/Y", "d/m/Y", "F j, Y g:i a", "F j, Y", "F, Y", "l, F jS, Y", "M j, Y @ G:i", "Y/m/d \a\t g:i A", "Y/m/d \a\t g:ia", "Y/m/d g:i:s A", "Y/m/d", "g:i a", "g:i:s a", 'D-M-Y', 'D-M-Y H:i'); ?>
+                                        <?php $date_formats = array("H:i:s d/m/Y", "Y-m-d H:i:s", "Y-m-d H:i", "d-m-Y H:i:s", "d-m-Y H:i", "m/d/y", "m/d/Y", "d/m/Y", "F j, Y g:i a", "F j, Y", "F, Y", "l, F jS, Y", "M j, Y @ G:i", "Y/m/d \a\t g:i A", "Y/m/d \a\t g:ia", "Y/m/d g:i:s A", "Y/m/d", "g:i a", "g:i:s a", 'D-M-Y', 'D-M-Y H:i'); ?>
                                         <?php $curent_val = get_option('date_format', 'website'); ?>
                                         <select name="date_format" class="selectpicker mw_option_field" data-width="100%" data-size="7" option-group="website">
                                             <?php if (is_array($date_formats)): ?>
@@ -153,7 +153,7 @@
 
                                     <div class="form-group">
                                         <label class="control-label"><?php _e("Time Zone"); ?></label>
-                                        <small class="text-muted d-block mb-2">Set a time zone</small>
+                                        <small class="text-muted d-block mb-2"><?php _e("Set a time zone"); ?></small>
                                         <?php $curent_time_zone = get_option('time_zone', 'website'); ?>
                                         <?php
                                         if ($curent_time_zone == false) {

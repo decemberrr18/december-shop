@@ -2,10 +2,10 @@
 
 $config = array();
 $config['name'] = "Rating";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['description'] = "Microweber";
-$config['website'] = "http://microweber.com/"; 
-$config['help'] = "http://microweber.com"; 
+$config['website'] = "http://microweber.com/";
+$config['help'] = "http://microweber.com";
 $config['version'] = 0.1;
 $config['ui_admin'] = false;
 $config['ui'] = false;

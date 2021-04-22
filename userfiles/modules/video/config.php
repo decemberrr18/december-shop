@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Video";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['categories'] = "recommended,media";
 $config['position'] = 6;
 $config['version'] = 1.1;

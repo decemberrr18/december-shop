@@ -2,7 +2,7 @@
 
 $config = array();
 $config['name'] = "Picture";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['description'] = "Picture";
 $config['version'] = 0.24;
 $config['ui'] = true;

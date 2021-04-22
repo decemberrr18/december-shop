@@ -2,13 +2,12 @@
 
 $config = array();
 $config['name'] = "Forgot password";
-$config['author'] = "Microweber";
+$config['author'] = "decemberr18";
 $config['description'] = "Microweber";
-$config['website'] = "http://microweber.com/"; 
-$config['help'] = "http://microweber.info/modules/users/registration"; 
+$config['website'] = "http://microweber.com/";
+$config['help'] = "http://microweber.info/modules/users/registration";
 $config['version'] = 0.2;
-$config['ui'] = true; 
+$config['ui'] = true;
    $config['position'] = 31;
-$config['categories'] = "users";    
+$config['categories'] = "users";
 
- 

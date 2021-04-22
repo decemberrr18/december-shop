@@ -42,7 +42,7 @@
                 </li>
 
                 <li class="mx-1 logo d-none d-md-block">
-                    <h5 class="text-white mr-3 d-flex align-items-center h-100"><img src="assets/img/logo.svg" alt="Microweber" style="width: 170px;"/></h5>
+                    <h5 class="text-white mr-3 d-flex align-items-center h-100"><img src="assets/img/logo.png" alt="Microweber" style="width: 170px;"/></h5>
                 </li>
 
                 <li class="mx-1 d-none d-md-block">
